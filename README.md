@@ -51,7 +51,7 @@ Navora helps travelers turn places they want to visit into an organized trip—a
 
 AI features depend on device and Apple Intelligence availability.
 
-## My role
+## About me
 
 I'm Santiago Garza, a software engineer and development lead based in Monterrey, México. Navora is my personal travel app, built alongside my work at Advant.
 
